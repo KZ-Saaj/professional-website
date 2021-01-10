@@ -1,0 +1,137 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 0;
+}
+.top{
+    color: #363958;
+}
+.name{
+    color: #ff8367;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+   color: gray;
+}
+
+
+.half-width img{
+    width:100% ;
+}
+section{
+    height: 300px;
+    padding-bottom:90px ;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+} 
+.width-half{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}  
+.about{
+    color: #363958;
+}
+.button2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    
+}
+.latest{
+    color:salmon ;
+}
+#latest1{
+    font-size: 40px;
+  text-align: center;
+  color: #363958;
+  font-weight: 700;
+  
+}
+.img3{
+    border-radius: 5%;
+    margin-left: 10%;
+    float: left;
+    width: 17%;
+    padding: 2%;
+    background-color: white;
+    
+    
+    box-shadow:10px 10px 40px ;
+}
+img{
+    width: 100%;
+}
+.imgteam{
+    background-color: whitesmoke;
+    margin-top: 90px;
+}
+  .img4-5{
+    margin-left: 10%;
+    float: left;
+    width: 17%;
+    border-radius: 5%;
+    padding: 2%;
+    background-color: white;
+    box-shadow: 10px 10px 40px;
+}
+
+.imgbg{
+    background-image: url(images/Group_33094_1.png);
+    height:400px ;
+    background-position: center;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+#work{
+    text-align: center;
+    padding-top: 23%;
+    padding-right:26% ;
+    color:white;
+    font-size: 30px;
+   
+}
+.button3{
+    text-decoration: none;
+    color: #ffffff;
+    background-image: linear-gradient(45deg,rgb(240, 32, 32),rgb(231, 137, 120));
+    padding:10px;
+    border-radius:8px ;
+    font-size: 15px;
+    margin-left: 650px;
+}
+.ending2{
+    text-align: center;
+    font-weight: 700;
+    font-size:30px;
+    color: #363958;
+    
+}
+.ending{
+    text-align: center;
+    color: slategray;
+}
+#finish{
+    padding-bottom: 30%;
+}
